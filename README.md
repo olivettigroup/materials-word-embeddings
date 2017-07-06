@@ -1,6 +1,8 @@
 # Materials Science Word Embeddings
 
-This repository provides a **trained** Word2Vec model (see Mikolov et al. 2013) trained across 640k+ materials science journal articles.
+This repository provides a **trained** Word2Vec model trained across 640k+ materials science journal articles. (See Mikolov et al. 2013 for a description of the underlying Word2Vec algorithm.)
+
+This trained model corresponds to the publication, "Machine-learned and codified synthesis parameters of oxide materials" in the journal *Scientific Data*.
 
 We use the **gensim** implementation for Word2Vec: https://radimrehurek.com/gensim/
 
